@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cescano
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science/Machine Learning
 - 🌱 I’m currently learning Python 
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: My favorite book is The Merchant of Venice!
