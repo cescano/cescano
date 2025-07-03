@@ -14,6 +14,17 @@
 
 ---
 
+## 📚 Relevant Coursework
+- **Machine Learning**  
+- **Statistical Computing with R**  
+- **Data Structures & Algorithms**  
+- **Databases & SQL**  
+- **Probability & Mathematical Statistics**  
+- **Bioinformatics / Computational Biology**  
+- **Communication for STEM Professionals**
+
+---
+
 ## 💡 Projects & Highlights
 Here are a few pinned projects that showcase my interests and technical skills:
 
