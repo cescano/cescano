@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @cescano
 
-🎓 **Student in Computer Science & Statistics with a Minor in Communications**  
+🎓 ** Undergraduate Student in Computer Science & Statistics with a Minor in Communications**  
 🧠 **Aspiring Data Scientist | Machine Learning Enthusiast | Python, R, C/C++ Developer**  
 📍 Based in Sacramento, CA | 💼 Open to internships, research, and collaborations
 
