@@ -59,8 +59,8 @@ Here are a few pinned projects that showcase my interests and technical skills:
 ## 🌐 Let's Connect!
 - 📫 Reach me: Coming Soon!
 - 🌍 Portfolio: Coming Soon!
-- 💼 LinkedIn: Coming Soon!
-- 🧠 Youtube: Coming Soon!
+- 💼 [LinkedIn: Catalina Escano](https://www.linkedin.com/in/catalinamescano/)
+- 🧠 [Youtube: Catalyst](https://www.youtube.com/@SacCatalyst)
 
 ---
 
